@@ -19,8 +19,9 @@ body {
 
 .lado-direito {
     float: right;
-    width: 50%;
+    width: 30%;
     background-color: grey;
+    margin-top: 70px;
 }
 
 .lado-esquerdo {
