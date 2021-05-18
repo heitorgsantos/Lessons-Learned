@@ -4,3 +4,11 @@ body {
 #minha_foto{
     width: 300px;
 }
+
+#cabecalho{
+    position: fixed;
+
+}
+#minha_foto{
+    top: 100px;
+}
