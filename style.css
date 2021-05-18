@@ -29,11 +29,12 @@ body {
   float: left;
   width: 50%;
 }
+
 h1 {
   margin: 5px;   
 
 }
 
 a {
-    display: block;
+  display: block;
 }
