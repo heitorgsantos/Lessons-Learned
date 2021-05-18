@@ -17,10 +17,13 @@ body {
 
 }
 
-aside {
-  width: 40%;
-  float: right;
-  background-color: rgb(143, 188, 153);
-  margin: 15px 15px 25px;
-  
+.lado-direito {
+    float: right;
+    width: 50%;
+    background-color: grey;
+}
+
+.lado-esquerdo {
+    float: left;
+    width: 50%;
 }
