@@ -1,18 +1,18 @@
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
-#minha_foto{
-    margin-top: 90px;
-    width: 300px;
-}
-
-#cabecalho{
-    position: fixed;
-
+#minha_foto {
+  margin-top: 90px;
+  width: 300px;
 }
 
-aside{
-    width: 40%;
-    float: right;
-    background-color: rgb(143, 188, 153);
+#cabecalho {
+  position: fixed;
+
+}
+
+aside {
+  width: 40%;
+  float: right;
+  background-color: rgb(143, 188, 153);
 }
