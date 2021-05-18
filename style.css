@@ -3,6 +3,7 @@ body {
   font-size: 18px;
   color: rgb(15, 17, 13);
   font-family: Helvetica, sans-serif;
+  line-height: 30px;
 }
 
 #minha_foto {
@@ -19,4 +20,5 @@ aside {
   width: 40%;
   float: right;
   background-color: rgb(143, 188, 153);
+  
 }
