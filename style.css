@@ -1,5 +1,8 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-size: 18px;
+  color: rgb(15, 17, 13);
+  font-family: Helvetica, sans-serif;
 }
 
 #minha_foto {
