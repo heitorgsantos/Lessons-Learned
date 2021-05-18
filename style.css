@@ -29,4 +29,10 @@ body {
   float: left;
   width: 50%;
 }
+h1 {
+    margin-top: px;
+}
 
+a {
+    display: block;
+}
