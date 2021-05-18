@@ -12,19 +12,21 @@ body {
 }
 
 #cabecalho {
-  top: 0;  
+  top: "0";  
   position: fixed;
+  margin: 25px;
 
 }
 
 .lado-direito {
-    float: right;
-    width: 30%;
-    background-color: grey;
-    margin-top: 70px;
+  float: right;
+  width: 30%;
+  background-color: grey;
+  margin-top: 70px;
 }
 
 .lado-esquerdo {
-    float: left;
-    width: 50%;
+  float: left;
+  width: 50%;
 }
+
