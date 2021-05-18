@@ -2,6 +2,7 @@ body {
     background-color: rgb(253, 251, 251);
 }
 #minha_foto{
+    margin-top: 90px;
     width: 300px;
 }
 
@@ -9,7 +10,9 @@ body {
     position: fixed;
 
 }
-#minha_foto{
-    margin-top: 100px;
-    
+
+aside{
+    width: 40%;
+    float: right;
+    background-color: rgb(143, 188, 153);
 }
